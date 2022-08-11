@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "gamesInfo": [
+    { "gameName": "Baccrat", "gameCategory": "Game One", "gameImage": "https://www.watchmojo.com//uploads/blipthumbs/MP-10-Awesome-Details-in-Super-Nintendo-World_A4M1E7-V1_480.jpg", "catOne": "BlackJack", "catTwo": "Roulatte" },
+    { "gameName": "Mario", "gameCategory": "Explorer One", "gameImage": "https://news.artnet.com/app/news-upload/2021/06/super-nintendo-world-256x256.jpeg", "catOne": "BlackGold", "catTwo": "Rolex" },
+    { "gameName": "Countra", "gameCategory": "Fighter One", "gameImage": "https://m.media-amazon.com/images/I/714PqwOIzxL._CR204,0,1224,1224_UX256.jpg", "catOne": "BlackSilver", "catTwo": "Swiss" },
+  ]
 }
